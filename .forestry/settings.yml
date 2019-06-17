@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/projects/creations
   label: Created Projects
-  match: "**/*"
 - type: directory
   path: content/publications
   label: Publications
