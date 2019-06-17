@@ -1,5 +1,5 @@
 # personal-website
-Hugo files for [http://dakotanelson.com]
+Hugo files for http://dakotanelson.com.
 
 Local use:
 `hugo -t hugo-resume --themesDir ../ server`
