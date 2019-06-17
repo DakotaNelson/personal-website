@@ -1,0 +1,50 @@
+[
+    {
+        "role":"Pentester and Security Researcher",
+        "company":"Black Hills Information Security",
+        "summary":"Consulting, research, development, and a whole lot more.",
+        "range":"February 2017 - Present"
+    },
+    {
+        "role":"Principal Consultant",
+        "company":"Striker Security",
+        "summary":"I ran a small computer security consulting company.",
+        "range":"May 2016 - Jan 2018"
+    },
+    {
+        "role":"Software Development Intern",
+        "company":"Nylas",
+        "summary":"I worked primarily on Nylas N1, an electron mail client. Notable projects include implementing a PGP plugin allowing users to send and receive PGP-encrypted mail.",
+        "range":"Jan 2016 - May 2016"
+    },
+    {
+        "role":"Student Fellow",
+        "company":".406 Ventures",
+        "summary":"Member of the sixth class of student fellows at .406 Ventures, a large technology VC firm. Help identify early-stage startups within the Olin and Babson College communities and collaborate with student fellows from across the country to assess investment opportunities.",
+        "range":"Jan 2015 - May 2016"
+    },
+    {
+        "role":"Intern",
+        "company":"Black Hills Information Security",
+        "summary":"Pentesting and some really, really cool R&D projects.",
+        "range":"Sep 2014 - Jan 2016"
+    },
+    {
+        "role":"Developer Intern",
+        "company":"Systems & Technology Research",
+        "summary":"Worked on the DARPA SMISC project with two other interns. We had pretty free rein, which was a lot of fun.",
+        "range":"May 2014 - Aug 2014"
+    },
+    {
+        "role":"Computer Security Intern",
+        "company":"Sandia National Laboratories",
+        "summary":"Worked on computer forensics training material used by DOE for training staff from multiple departments and agencies.",
+        "range":"May 2013 - Aug 2013"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"United States Air Force Research Laboratory",
+        "summary":"Space stuff, largely cubesat-based.",
+        "range":"May 2012 - Aug 2012"
+    }
+]

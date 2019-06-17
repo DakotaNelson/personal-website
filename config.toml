@@ -1,0 +1,40 @@
+baseURL = "http://dakotanelson.com/"
+languageCode = "en-us"
+title = "Dakota Nelson"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Dakota"
+    lastName = "Nelson"
+    address = "Seattle, WA"
+#phone = "1-555-555-1234"
+    contactNote = ""
+    profileImage = "img/me_alt.jpg"
+    email = "dakota.w.nelson@gmail.com"
+    description = "Dakota is a pentester and security researcher in Seattle, WA."
+    favicon = "img/favicon.ico"
+    # what sections
+    showSkills = false
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/dakotanelson/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/dakotanelson/"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/dakota"
+    icon = "keybase"
+
+[params.google.analytics]
+    trackerID = "UA-50003361-1"
