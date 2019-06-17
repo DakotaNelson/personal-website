@@ -9,14 +9,18 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/projects
-  label: Projects
-  create: all
+- type: document
+  path: content/projects/creations
+  label: Created Projects
   match: "**/*"
 - type: directory
   path: content/publications
   label: Publications
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/projects
+  label: Projects
   create: all
   match: "**/*"
 upload_dir: static/uploads
