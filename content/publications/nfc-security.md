@@ -3,7 +3,7 @@ title: "Security of the Near Field Communication Protocol"
 date: 2013-12-01
 pubtype: "Paper"
 featured: true
-description: "A paper discussing security issues with the near field communication (NFC) protol common in modern phones."
+description: "A paper published in the Journal of Computing Sciences in Colleges discussing security issues with the near field communication (NFC) protol common in modern phones. This was published during my senior year of high school."
 link: "https://dl.acm.org/citation.cfm?id=2535418.2535432"
 weight: 100
 sitemap:
