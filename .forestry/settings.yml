@@ -4,16 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/projects/contributions
+  label: Contributed Projects
+  match: "**/*"
 - type: heading
   label: Projects
 - type: document
   path: content/projects/creations
   label: Created Projects
-- type: directory
-  path: content/projects/contributions
-  label: Contributed Projects
-  create: documents
-  match: "**/*"
 - type: directory
   path: content/publications
   label: Publications
