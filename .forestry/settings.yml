@@ -27,6 +27,10 @@ sections:
   path: content/_index.md
   label: Welcome Section
 - type: document
+  path: content/projects/_index.md
+  label: Projects Index
+  match: "**/*"
+- type: document
   path: content/publications/_index.md
   label: Publications Index
   match: "**/*"
