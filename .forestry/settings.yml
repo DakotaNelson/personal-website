@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/projects/contributions
   label: Contributed Projects
-  match: "**/*"
 - type: heading
   label: Projects
 - type: document
