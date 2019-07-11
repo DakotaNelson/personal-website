@@ -12,6 +12,11 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
+  path: content/projects/contributions
+  label: Contributed Projects
+  create: documents
+  match: "**/*"
+- type: directory
   path: content/publications
   label: Publications
   create: all
@@ -21,11 +26,10 @@ sections:
 - type: document
   path: content/_index.md
   label: Welcome Section
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: document
+  path: content/publications/_index.md
+  label: Publications Index
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
