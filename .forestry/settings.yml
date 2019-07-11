@@ -11,6 +11,7 @@ sections:
   label: Created Projects
   create: documents
   match: "**/*"
+  exclude: _index.md
 - type: directory
   path: content/projects/contributions
   label: Contributed Projects
@@ -29,11 +30,9 @@ sections:
 - type: document
   path: content/projects/_index.md
   label: Projects Index
-  match: "**/*"
 - type: document
   path: content/publications/_index.md
   label: Publications Index
-  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''
