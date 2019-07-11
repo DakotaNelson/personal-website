@@ -15,15 +15,21 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/publications
   label: Publications
   create: all
   match: "**/*"
+- type: heading
+  label: Pages
+- type: document
+  path: content/_index.md
+  label: Welcome Section
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
