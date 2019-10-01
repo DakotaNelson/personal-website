@@ -1,9 +1,16 @@
 baseURL = "http://dakotanelson.com/"
 languageCode = "en-us"
 title = "Dakota Nelson"
-theme = "hugo-resume"
+theme = "book"
+
+enableGitInfo = true
 
 [params]
+    # how many levels of ToC?
+    BookToC = 2
+    BookMenuBundle = '/menu'
+    BookSection = 'docs'
+    BookRepo = 'https://github.com/dakotanelson/dakotanelson.github.io'
     firstName = "Dakota"
     lastName = "Nelson"
     address = "Seattle, WA"
@@ -13,15 +20,6 @@ theme = "hugo-resume"
     email = "dakota.w.nelson@gmail.com"
     description = "Dakota is a pentester and security researcher in Seattle, WA."
     favicon = "img/favicon.ico"
-    # what sections
-    showSkills = false
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
-    showExperience = true
-    showEducation = true
-
-    showQr = false
 
 [[params.handles]]
     name = "LinkedIn"
