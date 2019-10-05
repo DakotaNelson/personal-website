@@ -2,13 +2,15 @@
 headless: true
 ---
 
-- [**Introduction**]({{< relref "/docs/introduction" >}})
-- [Examples]({{< relref "/docs/introduction/examples" >}})
-  - [With Table of Contents]({{< relref "/docs/introduction/examples/with-toc" >}})
-  - [Without Table of Contents]({{< relref "/docs/introduction/examples/without-toc" >}})
-  - [Shortcodes]({{< relref "/docs/introduction/examples/shortcodes" >}})  
-- **More Examples**
-- [Server]({{< relref "/docs/more-examples/server" >}})
-- [Client]({{< relref "/docs/more-examples/client" >}})
-- [Advanced]({{< relref "/docs/more-examples/advanced" >}})  
-- [**Blog**]({{< relref "/posts" >}})
+- **This Site**
+- [Inspiration]({{< relref "/docs/this-site/inspiration" >}})
+- **Me**
+- [Programming]({{< relref "/docs/me/programming" >}})
+- [Art]({{< relref "/docs/me/art" >}})
+- [Reading]({{< relref "/docs/me/books" >}})
+- [Experience]({{< relref "/docs/me/experience" >}})
+- [Talks, Papers, etc.]({{< relref "/docs/me/media" >}})  
+
+- [Contact]({{< relref "/docs/me/contact" >}})
+
+- [Blog]({{< relref "/posts" >}})

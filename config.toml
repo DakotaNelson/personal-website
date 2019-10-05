@@ -7,7 +7,7 @@ enableGitInfo = true
 
 [params]
     # how many levels of ToC?
-    BookToC = 2
+    BookToC = 4
     BookMenuBundle = '/menu'
     BookSection = 'docs'
     BookRepo = 'https://github.com/dakotanelson/dakotanelson.github.io'
