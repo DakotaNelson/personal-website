@@ -1,6 +1,7 @@
 ---
 title: About
 type: docs
+bookToc: false
 ---
 
 # Hey, welcome.
