@@ -1,1 +1,0 @@
-I'm a pentester, security researcher, and developer, but my interests range from forecasting and economics to amateur radio, system design and architecture, and space exploration. I have way too many interests to reasonably list them here.
