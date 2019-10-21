@@ -13,4 +13,4 @@ headless: true
 
 - [Contact]({{< relref "/docs/me/contact" >}})
 
-- [Blog]({{< relref "/posts" >}})
+<!--- [Blog]({{< relref "/posts" >}})-->

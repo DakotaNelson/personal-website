@@ -51,6 +51,23 @@ _May 2012 - August 2012_
 Space stuff, largely cubesat-related.
 
 
+# Volunteer
+
+<hr>
+
+## Public Outreach, _Seattle Office of Emergency Management_
+
+_Early 2019 - Present_
+
+I do outreach for OEM, including teaching classes to the community about disaster preparedness and response and tabling at events.
+
+## Radio Operator, _Seattle Auxiliary Communications Service_
+
+_Late 2018 - Present_
+
+Seattle Auxiliary Communications Service provides communication support to the City of Seattle in times of disaster and emergency. I'm a radio operator, meaning I use my ham radio license to move information when more conventional means like the phone network are unavailable. I generally work in the Seattle Emergency Operations Center, so I've seen ICS operating firsthand.
+
+
 # Education
 
 <hr>
