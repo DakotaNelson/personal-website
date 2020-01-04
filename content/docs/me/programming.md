@@ -24,7 +24,7 @@ Link: https://github.com/DakotaNelson/sneaky-creeper
 - https://strikersecurity.com/blog/sneaky-creeper-data-exfiltration-overview/
 - https://www.blackhillsinfosec.com/webcast-tweets-beats-and-sheets-c2-over-social-media/
 
-## Pushipin-web
+## Pushpin-web
 
 tl;dr it constantly collects geotagged social media from areas you define, then lets you view the collected data on a map or search through it. Useful for answering questions such as "are people posting pictures of their badge while they're at my facility" and "what does the inside of that building look like?"
 

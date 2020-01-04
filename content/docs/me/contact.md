@@ -6,8 +6,6 @@ bookToc: false
 
 Nonetheless, you may find me in the following places.
 
-I wish you luck.
-
 https://keybase.io/dakota
 
 https://www.linkedin.com/in/dakotanelson/
