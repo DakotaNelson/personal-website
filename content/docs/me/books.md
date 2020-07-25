@@ -105,3 +105,83 @@ Felt like a collection of semi-random notes, internally contradictory and withou
 # 2020
 
 ### All our Wrong Todays, Mastai
+
+### Five Days at Memorial, Fink
+
+### How to Read a Book, Adler
+
+### **The Black Swan, Taleb**
+
+### Blank Spots on the Map, Paglen
+
+### The Way of the Knife, Mazzetti
+
+### Tropic of Kansas, Brown
+
+### Vagabonding, Potts
+
+### Crooked Little Vein, Ellis
+
+### Getting Things Done, Allen
+
+### The Art of Learning, Waitzkin
+
+### The Dictator's Handbook, Mesquita
+
+### The Final Day, Forstchen
+
+This series started well and ended just AWFULLY, wow.
+
+### The Making of a Manager, Zhuo
+
+### Agency, Gibson
+
+### The Operators, Rennie
+
+This was fascinating.
+
+### The Ghost of the Executed Engineer, Graham
+
+### The Outlaw Ocean, Urbina
+
+### The Ocean at the End of the Lane, Gaiman
+
+This is my second and last Gaiman book. For some reason they hit a chord just wrong, and both have been just cripplingly depressing. I don't have any interest in doing that to myself.
+
+### Satin Island, McCarthy
+
+### The Plague, Camus
+
+Timely. Too timely.
+
+### **METAtropolis, Scalzi**
+
+### Overclocked, Doctorow
+
+### Hardwired, Williams
+
+### Thinking in Systems, Meadows
+
+### How to Do Nothing, Odell
+
+### **The Moon is Down, Steinbeck**
+
+I will probably re-read this occasionally when I'm feeling hopeless. What a great book.
+
+### Grit, Duckworth
+
+### Red Plenty, Spufford
+
+### **Old Man's War, Scalzi**
+
+### **Matterhorn, Mariantes**
+
+### The Crying of Lot 49, Pynchon
+
+### The People's Republic of Walmart, Philips
+
+Really fascinating premise but could have been maybe a quarter the length.
+
+### **In Praise of Idleness, Russell**
+
+### Singularity Sky, Stross
