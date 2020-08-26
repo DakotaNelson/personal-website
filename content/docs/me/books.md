@@ -14,6 +14,8 @@ Ok, now into the books. This isn't a complete list, for an assortment of reasons
 
 If it's bolded, it was particularly good.
 
+I have taken notes on some books. If you see a `+` after the book, you can click it to see my notes.
+
 # 2019
 
 ### Lone Survivor, Luttrell
@@ -68,7 +70,7 @@ This was heartwrenching. Probably the dystopian book that has felt the most "rea
 
 ### The Three-Body Problem, Liu
 
-### **Atomic Habits, Clear**
+### **Atomic Habits, Clear** [+](https://www.evernote.com/l/An5B62CFypRK9IIQKT812R7yy3QRF4ux3ks/)
 
 ### American War, El Akkad
 
@@ -80,11 +82,11 @@ I didn't finish this book because I felt like I got what I wanted out of it; the
 
 ### The Sheep Look Up, Brunner
 
-### **Ultralearning, Young**
+### **Ultralearning, Young** [+](https://www.evernote.com/l/An5FfDoK7lhM9Kl0NAYaM5TEyRZ9tjaa95w/)
 
 ### The Shockwave Rider, Brunner
 
-### Deep Work, Newport
+### Deep Work, Newport [+](https://www.evernote.com/l/An7f563LsRlObav5eyfTs0MGWNwzMIAtStI/)
 
 ### The Subtle Art of Not Giving a F*ck, Manson
 
@@ -108,9 +110,9 @@ Felt like a collection of semi-random notes, internally contradictory and withou
 
 ### Five Days at Memorial, Fink
 
-### How to Read a Book, Adler
+### How to Read a Book, Adler [+](https://www.evernote.com/l/An5U2_k5bmdYKLKHwuGzQqLln_awKSyiYPE/)
 
-### **The Black Swan, Taleb**
+### **The Black Swan, Taleb** [+](https://www.evernote.com/l/An7o2GyCN7dPhaTaQon9Mxp18u3J32gDksM/)
 
 ### Blank Spots on the Map, Paglen
 
@@ -168,7 +170,7 @@ Timely. Too timely.
 
 I will probably re-read this occasionally when I'm feeling hopeless. What a great book.
 
-### Grit, Duckworth
+### Grit, Duckworth [+](https://www.evernote.com/l/An7fZIAaH2BFkqNmj5XzccCiWdloQKn6aRU/)
 
 ### Red Plenty, Spufford
 
@@ -185,3 +187,23 @@ Really fascinating premise but could have been maybe a quarter the length.
 ### **In Praise of Idleness, Russell**
 
 ### Singularity Sky, Stross
+
+### Coup d'Etat: A Practical Handbook, Luttwak
+
+### How to Measure Anything, Hubbard
+
+### **Out of the Mountains, Kulcullen** [+](https://www.evernote.com/l/An6VFEXKDktH4pDArPHpoV4wumTRfvFTNCM/)
+
+### The Warehouse, Hart
+
+Pretty hamfisted but a quick and fairly interesting read.
+
+### Capitalist Realism, Fisher [+](https://www.evernote.com/l/An7oeA6x0zpHlLj4CFpYtWBw7zdoaNlpRbQ/)
+
+Ugh. I wish there were more books that were about this type of topic without the absolutely impenetrable "high-brow academic only read by other academics" writing style.
+
+### Sandworm, Greenberg
+
+### The War on Everyone, Evans
+
+### Factfulness, Rosling [+](https://www.evernote.com/l/An6HHun98Y5AQbczbGsgSYdAgSoXU3aTE2c/)
