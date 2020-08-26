@@ -1,6 +1,6 @@
 # Interests
 
-I have... way too many. Here are a few.
+I have... way too many, and pursue them with varying degrees of time investment and zeal. Here are a few.
 
 
 ## Information Security
@@ -8,6 +8,10 @@ I have... way too many. Here are a few.
 ## Wilderness Medicine
 
 ## Robots
+
+## Space
+
+SPAAAAAAAAAAAAAAAAAAAAAAAACE
 
 ## Forecasting/Foresight/Future Studies
 

@@ -11,7 +11,7 @@ For some reason, I never got much into edX. I did part of MIT's 6.002x back when
 As of now, here's what I've done on Coursera within the past few years:
 
 - Chinese Politics 1 and 2
-- (almost) The entire EMT specialization
+- The entire EMT specialization
 - Learning How to Learn
 - Risk in Modern Society
 - Bayesian Statistics
