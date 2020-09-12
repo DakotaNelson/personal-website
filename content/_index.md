@@ -8,8 +8,6 @@ bookToc: false
 
 This is the webiste of Dakota Nelson.
 
-My day job is at Black Hills Information Security as a penetration tester. Outside of that... well, where do I even start?
-
 This site is mostly an exercise for myself; a sort of self-documentation, to help me keep track of things of interest.
 
 It's extremely a work in progress, and likely always will be.
