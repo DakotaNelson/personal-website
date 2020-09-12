@@ -15,3 +15,4 @@ As of now, here's what I've done on Coursera within the past few years:
 - Learning How to Learn
 - Risk in Modern Society
 - Bayesian Statistics
+- Monetary Policy in the Asia Pacific

@@ -2,9 +2,13 @@
 
 <hr>
 
+## Security Consultant, _Leviathan Security Group_
+
+_April 2020 - Present_
+
 ## Pentester and Security Researcher, _Black Hills Information Security_
 
-_February 2017 - Present_
+_February 2017 - April 2020_
 
 Consulting, research, development, and a whole lot more.
 

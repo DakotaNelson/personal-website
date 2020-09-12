@@ -207,3 +207,5 @@ Ugh. I wish there were more books that were about this type of topic without the
 ### The War on Everyone, Evans
 
 ### Factfulness, Rosling [+](https://www.evernote.com/l/An6HHun98Y5AQbczbGsgSYdAgSoXU3aTE2c/)
+
+### Some Remarks, Stephenson
