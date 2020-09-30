@@ -209,3 +209,19 @@ Ugh. I wish there were more books that were about this type of topic without the
 ### Factfulness, Rosling [+](https://www.evernote.com/l/An6HHun98Y5AQbczbGsgSYdAgSoXU3aTE2c/)
 
 ### Some Remarks, Stephenson
+
+### The New Parapolice, Rigakos [+](https://www.evernote.com/l/An6anO8-5RtAYIAkOqlBi0jaVxUHPNir2Fw/)
+
+### Fixing Your Feet, Vonhof [+](https://www.evernote.com/l/An55iXu6q1BGt4903t7VGv7JkT6_X8_FQEI/)
+
+This pretty much felt like an extended advertisement for various products. There was a bit of good information in there, but yikes was it ever buried under lists of things to buy.
+
+### Golden State, Winters
+
+### Security/Capital, Rigakos [+](https://www.evernote.com/l/An6Dk8S9h2dK9Idnw5Bn7lO9TmgFgI_MLD8/)
+
+### The Knowledge, Dartnell
+
+This was great as a compendium of "oh wow that would make a super fun project" but was light on technical details. Which is actually fine, to me, that's what the internet is for.
+
+### The Worldly Philosophers, Heilbroner
